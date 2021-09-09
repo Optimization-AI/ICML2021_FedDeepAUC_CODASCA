@@ -2,6 +2,14 @@
 
 This is the official implementation of the paper "**Federated Deep AUC Maximization for Heterogeneous Data with a Constant Communication Complexity**" published on **ICML2021**. 
 
+Requirements
+---------
+```
+Tensorflow >= 2.0.0
+PyTorch >= 1.3.0
+```
+
+
 How to run 
 ---------
 ```
